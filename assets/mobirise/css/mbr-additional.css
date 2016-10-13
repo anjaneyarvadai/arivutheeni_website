@@ -494,6 +494,9 @@ h6,
   font-size: 36px;
   color: #7c706b;
 }
+#header6-2 SPAN {
+  font-size: 32px;
+}
 #form1-a .form-control-label {
   color: #232323;
 }

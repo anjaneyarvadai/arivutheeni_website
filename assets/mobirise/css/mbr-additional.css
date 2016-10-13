@@ -490,6 +490,13 @@ h6,
 #header6-2 .mbr-section-text {
   color: #565656;
 }
+#header6-2 H3 {
+  font-size: 36px;
+  color: #7c706b;
+}
 #form1-a .form-control-label {
   color: #232323;
+}
+#form1-a .mbr-section-title SPAN {
+  font-size: 36px;
 }
